@@ -10,8 +10,6 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 
 # Content    
 ## A.1 Operations
+* Number types 
 * Order of operations
-* List of types of numbers 
-* Associative property
-* Commutative property 
-* Distributive property
+* Algebraic properties
