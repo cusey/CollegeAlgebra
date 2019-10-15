@@ -1,0 +1,51 @@
+# A1.Operations
+### Numbers types
+_______________
+
+In[] : import sympy as sp
+In[] : sp.init_printing()
+In[] : from sympy import *
+
+Checking if 2 is integer
+In[] : sympify(2).is_integer
+Out[]: True
+
+Checking if demical number is an integer
+In[] : sympify("2e-45").is_integer
+Out[]: False
+
+Checking if demical number is a real number
+In[] : sympify("2e-45").is_real
+Out[]: True
+
+Way to do square root of two in sympy
+In[] : N(sqrt(2))
+Out[]: 1.4142135623731
+
+Checking if the sqaure root of two is an integer
+In[] : sympify(N(sqrt(2))).is_integer
+Out[]: False
+
+Way to do Pi in sympy
+In[] : N(pi)
+Out[]: 3.14159265358979
+
+Checking if the Pi is an integer
+In[] : sympify(N(pi)).is_integer
+Out[]: False
+
+Way to do imaginary numbers in sympy
+In[] : N(sqrt(-1))
+Out[]: 1.0i
+
+Checking if an imaginary numbers is real
+In[] : sympify(N(sqrt(-1))).is_real
+Out[]: False
+
+Checking if two is is an imaginary numbers
+In[] : sympify(2).is_imaginary 
+Out[]: False
+
+Checking if two is is an imaginary numbers
+In[] : sympify(N(sqrt(-1))).is_imaginary 
+Out[]: True
