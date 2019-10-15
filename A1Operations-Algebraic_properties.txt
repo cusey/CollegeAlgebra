@@ -1,0 +1,78 @@
+# A1.Operations
+### Algebraic properties
+_______________
+
+In[] : import sympy as sp
+In[] : sp.init_printing()
+In[] : from sympy import *
+
+## Commutative Property
+a + b = b + a 
+ab = ba
+
+In[] : a = 2 + 3
+In[] : b = 3 + 2
+
+In[] : a.equals(b)
+Out[] : True
+
+### Commutative Property does NOT apply for substraction or division
+
+### Substraction 
+In[] : a = 2 - 3
+In[] : b = 3 - 2
+
+In[] : a.equals(b)
+Out[] : False
+
+### Division
+In[] : a = 2 / 3
+In[] : b = 3 / 2
+
+In[] : a.equals(b)
+Out[] : False
+
+## Associate Property
+(a + b) + c = a + (b + c) 
+(ab)c = a(bc)
+
+
+In[] : a = (6 + 2) + 5
+In[] : b = 6 + (2 + 5)
+
+In[] : a.equals(b)
+Out[] : True
+
+## Distributive Property     
+a(b + c) = ab + ac 
+(b + c)a = ba + ca
+
+In[] : a = 6(5 + 2)
+In[] : b = (6*5) + (6*2)
+
+In[] : a.equals(b)
+Out[] : True
+
+## Distributive Property  
+a(b + c) = ab + ac
+
+In[] : 2*(11+5)
+Out[] : 32
+
+In[] : 2*(11) + 2*(5)
+Out[] : 32
+
+## Transitive Property     
+a = b and b = c then a = c
+
+In this example we know 2 = z and x = 3z + 5 so using the Transitive Property then  x = 3(2) + 5
+By inspection x should equal 11
+
+x,z = symbols("x z")
+
+In[] : x = 3*z + 5
+In[] : x.subs(z, 2)
+Out[] : 11
+
+
+
