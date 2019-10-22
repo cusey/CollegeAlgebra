@@ -24,3 +24,11 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 * Evaluating Expressions
 * Inverse Operations
 * Simple Equations
+
+## C.1 Simple equations
+* Subscripts
+* Word Problems
+* Consecutive integers
+
+## D.1 Like terms
+
