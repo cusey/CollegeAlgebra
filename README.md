@@ -31,4 +31,6 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 * Consecutive integers
 
 ## D Section 4 - Like terms    
-
+* Introduction
+* Adding and subtracting
+* Multiplying and dividing
