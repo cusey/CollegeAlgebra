@@ -13,22 +13,22 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 [SymPy Try](https://live.sympy.org/)         
 
 # Content    
-## A.1 Operations
+## A Section 1 - Operations     
 * Number types 
 * Order of operations
 * Algebraic properties
 * Identity Property In Action       
 * Practices with grouping symbols    
 
-## B.1 Rules of equations
+## B Section 2 - Rules of equations    
 * Evaluating Expressions
 * Inverse Operations
 * Simple Equations
 
-## C.1 Simple equations
+## C Section 3 - Simple equations     
 * Subscripts
 * Word Problems
 * Consecutive integers
 
-## D.1 Like terms
+## D Section 4 - Like terms    
 
