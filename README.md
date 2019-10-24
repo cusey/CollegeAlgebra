@@ -34,3 +34,6 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 * Introduction
 * Adding and subtracting
 * Multiplying and dividing
+
+## E Section 5 - Polynomials
+
