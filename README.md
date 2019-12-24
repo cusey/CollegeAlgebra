@@ -16,9 +16,7 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 ## A Section 1 - Operations     
 * Number types 
 * Order of operations
-* Algebraic properties
-* Identity Property In Action       
-* Practices with grouping symbols    
+* Algebraic properties  
 
 ## B Section 2 - Rules of equations    
 * Evaluating Expressions
