@@ -43,4 +43,6 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 
 ## F Section 6 - Factoring        
 * Greatest common factor         
-
+* Quadratic polynomial     
+* Difference of two squares     
+* Quadratic formula      
