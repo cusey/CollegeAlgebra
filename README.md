@@ -45,4 +45,5 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 * Greatest common factor         
 * Quadratic polynomial     
 * Difference of two squares     
-* Quadratic formula      
+* Quadratic formula
+* Common denominator      
