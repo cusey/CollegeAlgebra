@@ -40,3 +40,6 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 * Multiplying    
 * Multiplying muliti variables 
 
+## F Section 6 - Factoring        
+* Greatest common factor         
+
