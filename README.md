@@ -38,5 +38,5 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 * Adding     
 * Subtracting    
 * Multiplying    
-*
+* Multiplying muliti variables 
 
