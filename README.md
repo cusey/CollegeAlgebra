@@ -38,7 +38,8 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 * Adding     
 * Subtracting    
 * Multiplying    
-* Multiplying muliti variables 
+* Multiplying muliti-variables 
+* Division multi-variables (No Jupyter)
 
 ## F Section 6 - Factoring        
 * Greatest common factor         
