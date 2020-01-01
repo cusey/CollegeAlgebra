@@ -49,4 +49,7 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 * Common denominator   
 
 ## G Section 7 - Function 
-* Introduction       
+* Introduction    
+* Domain and Range    
+* Vertical line test
+* Sum of functions      
