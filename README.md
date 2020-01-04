@@ -57,6 +57,8 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 * Odd even or neither functions
 * Independent and dependent variables  (No Jupyter)   
   
-## H Section 8 - Inequalities    
+## H Section 8 - Inequalities  
+* Negative number  
+* Conjunction
 
 
