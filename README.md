@@ -61,4 +61,7 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 * Negative number  
 * Conjunction
 
+## I Section 9 - Graphing    
+* Slope     
+
 
