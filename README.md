@@ -62,6 +62,6 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 * Conjunction
 
 ## I Section 9 - Graphing    
-* Slope     
+* Slope-intercept form     
 
 
