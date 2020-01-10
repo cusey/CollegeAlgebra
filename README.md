@@ -76,3 +76,4 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 * Negative exponents
 * Power rule
 * Fractional exponents
+* Rationalize the denominator    
