@@ -68,4 +68,10 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 * Substitutions     
     
 
-
+## K Section 11 - Exponents and radicals
+* Introduction 
+* Negative bases
+* Powers of factions
+* Zero as an exponent
+* Negative exponents
+* Power rule
