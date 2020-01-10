@@ -75,3 +75,4 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 * Zero as an exponent
 * Negative exponents
 * Power rule
+* Fractional exponents
