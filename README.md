@@ -64,4 +64,8 @@ Elementary algebra differs from arithmetic in the use of abstractions, such as u
 ## I Section 9 - Graphing    
 * Slope-intercept form     
 
+## J Section 10 - Systems of equations        
+* Substitutions     
+    
+
 
